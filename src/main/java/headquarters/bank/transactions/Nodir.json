@@ -1,0 +1,82 @@
+[{
+  "CLASSNAME": "OutgoingTransfer",
+  "INSTANCE": {
+    "sender": "Nodir",
+    "recipient": "Mama",
+    "date": "2022.11.11",
+    "amount": 2323.0,
+    "description": "For Shopping"
+  }
+}, {
+  "CLASSNAME": "OutgoingTransfer",
+  "INSTANCE": {
+    "sender": "Nodir",
+    "recipient": "Unicef",
+    "date": "2022.03.17",
+    "amount": 1345.0,
+    "description": "Spende"
+  }
+}, {
+  "CLASSNAME": "OutgoingTransfer",
+  "INSTANCE": {
+    "sender": "Nodir",
+    "recipient": "Rotes Kreuz",
+    "date": "2022.07.20",
+    "amount": 1000.0,
+    "description": "Spende"
+  }
+}, {
+  "CLASSNAME": "OutgoingTransfer",
+  "INSTANCE": {
+    "sender": "Nodir",
+    "recipient": "Vammy",
+    "date": "2022.11.13",
+    "amount": 31.0,
+    "description": "Essen"
+  }
+}, {
+  "CLASSNAME": "Payment",
+  "INSTANCE": {
+    "incomingInterest": 0.3,
+    "outgoingInterest": 0.2,
+    "date": "2022.04.22",
+    "amount": 133.0,
+    "description": "Blumen"
+  }
+}, {
+  "CLASSNAME": "Payment",
+  "INSTANCE": {
+    "incomingInterest": 0.3,
+    "outgoingInterest": 0.2,
+    "date": "2022.08.13",
+    "amount": 1345.0,
+    "description": "skdlsgd"
+  }
+}, {
+  "CLASSNAME": "Payment",
+  "INSTANCE": {
+    "incomingInterest": 0.3,
+    "outgoingInterest": 0.2,
+    "date": "2022.11.10",
+    "amount": 5758.0,
+    "description": "Einkommen"
+  }
+}, {
+  "CLASSNAME": "Payment",
+  "INSTANCE": {
+    "incomingInterest": 0.3,
+    "outgoingInterest": 0.2,
+    "date": "2022.11.29",
+    "amount": 10000.0,
+    "description": "Lohn"
+  }
+}, {
+  "CLASSNAME": "OutgoingTransfer",
+  "INSTANCE": {
+    "sender": "Nodir",
+    "recipient": "Alice",
+    "date": "2022.01.12",
+    "amount": 2542.0,
+    "description": "xgssgs"
+  }
+}]

@@ -1,0 +1,37 @@
+[{
+  "CLASSNAME": "Payment",
+  "INSTANCE": {
+    "incomingInterest": 0.3,
+    "outgoingInterest": 0.2,
+    "date": "2022.12.23",
+    "amount": 345.0,
+    "description": "Abc"
+  }
+}, {
+  "CLASSNAME": "IncomingTransfer",
+  "INSTANCE": {
+    "sender": "Nodir",
+    "recipient": "Hris",
+    "date": "2010.12.05",
+    "amount": 453.0,
+    "description": "slkdgjskg"
+  }
+}, {
+  "CLASSNAME": "IncomingTransfer",
+  "INSTANCE": {
+    "sender": "Nodir",
+    "recipient": "Hris",
+    "date": "2022.10.12",
+    "amount": 3242.0,
+    "description": "lfksdf"
+  }
+}, {
+  "CLASSNAME": "Payment",
+  "INSTANCE": {
+    "incomingInterest": 0.3,
+    "outgoingInterest": 0.2,
+    "date": "2022.10.01",
+    "amount": -134.0,
+    "description": "Gym"
+  }
+}]

@@ -1,0 +1,28 @@
+[{
+  "CLASSNAME": "Payment",
+  "INSTANCE": {
+    "incomingInterest": 0.3,
+    "outgoingInterest": 0.2,
+    "date": "12.06.2012",
+    "amount": -45.0,
+    "description": "Flugticket"
+  }
+}, {
+  "CLASSNAME": "IncomingTransfer",
+  "INSTANCE": {
+    "sender": "Vammy",
+    "recipient": "Ikram",
+    "date": "2022.12.05",
+    "amount": 2425.0,
+    "description": "sgmsldgk"
+  }
+}, {
+  "CLASSNAME": "Payment",
+  "INSTANCE": {
+    "incomingInterest": 0.3,
+    "outgoingInterest": 0.2,
+    "date": "2022.12.09",
+    "amount": 345.0,
+    "description": "kfsldk"
+  }
+}]

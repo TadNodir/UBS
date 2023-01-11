@@ -1,0 +1,19 @@
+[{
+  "CLASSNAME": "Payment",
+  "INSTANCE": {
+    "incomingInterest": 0.3,
+    "outgoingInterest": 0.2,
+    "date": "2011.12.23",
+    "amount": 45.0,
+    "description": "Essen"
+  }
+}, {
+  "CLASSNAME": "OutgoingTransfer",
+  "INSTANCE": {
+    "sender": "Vammy",
+    "recipient": "DB",
+    "date": "2020.11.04",
+    "amount": 45.0,
+    "description": "Zug"
+  }
+}]

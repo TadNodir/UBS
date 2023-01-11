@@ -1,0 +1,37 @@
+[{
+  "CLASSNAME": "IncomingTransfer",
+  "INSTANCE": {
+    "sender": "Alice",
+    "recipient": "Daniel",
+    "date": "10.08.2022",
+    "amount": 1000.0,
+    "description": "guter zweck"
+  }
+}, {
+  "CLASSNAME": "IncomingTransfer",
+  "INSTANCE": {
+    "sender": "Bob",
+    "recipient": "Daniel",
+    "date": "11.05.2014",
+    "amount": 2.0,
+    "description": "zug"
+  }
+}, {
+  "CLASSNAME": "Payment",
+  "INSTANCE": {
+    "incomingInterest": 0.3,
+    "outgoingInterest": 0.2,
+    "date": "12.06.2012",
+    "amount": -45.0,
+    "description": "essen"
+  }
+}, {
+  "CLASSNAME": "OutgoingTransfer",
+  "INSTANCE": {
+    "sender": "Daniel",
+    "recipient": "STW Aachen",
+    "date": "13.03.2021",
+    "amount": 134.0,
+    "description": "mensa"
+  }
+}]
